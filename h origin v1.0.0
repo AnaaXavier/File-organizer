@@ -1,0 +1,24 @@
+[33mtag v1.0.0[m
+Tagger: AnaaXavier <xavier.anaa16@gmail.com>
+Date:   Tue Jul 23 14:41:25 2024 -0300
+
+my first release
+
+[33mcommit 0165ef0986b70f64c91c95f451d6fef0e7a978e7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;33mtag: [m[1;33mv1.0.0[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: AnaaXavier <xavier.anaa16@gmail.com>
+Date:   Tue Jul 23 14:38:57 2024 -0300
+
+    updated .gitignore
+
+[1mdiff --git a/.gitignore b/.gitignore[m
+[1mindex 0ced3ff..9ac8433 100644[m
+[1m--- a/.gitignore[m
+[1m+++ b/.gitignore[m
+[36m@@ -1 +1,4 @@[m
+[31m-venv/*[m
+\ No newline at end of file[m
+[32m+[m[32mvenv/*[m
+[32m+[m[32mbuild/*[m
+[32m+[m[32mfile-organizer.spec[m
+[32m+[m[32mdist/*[m
+\ No newline at end of file[m
